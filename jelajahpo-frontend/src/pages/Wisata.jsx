@@ -68,6 +68,7 @@ export default function Wisata() {
                     <th>Nama Wisata</th>
                     <th>Deskripsi</th>
                     <th>Harga Tiket</th>
+                    <th>Aksi</th>
                 </tr>
             </thead>
             <tbody>
